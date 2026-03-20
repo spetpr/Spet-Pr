@@ -1,1 +1,1 @@
-# Spet-Pr
+# SpetPr
